@@ -68,7 +68,6 @@ All Donations will be made public once the Website is created.
 - Susceptible to change as the project progresses and strategic decisions are made to maximize the impact and effectiveness of CRICOIN.
 
   ![tele](https://github.com/CRICOIN-CRI/CRICOIN-CRI/assets/169584678/e308ea26-e3d2-4b94-9bdc-455b1aedb015): (In progress..)
-  ![Papirus-Team-Papirus-Apps-Discord 16](https://github.com/CRICOIN-CRI/CRICOIN-CRI/assets/169584678/24155fae-6de8-4e4d-a169-52e03706f966): (In progress..)
-  ![telegrama](https://github.com/CRICOIN-CRI/CRICOIN-CRI/assets/169584678/3b1c8f2f-f889-44a5-b8d4-8ecbc6daa777): (In progress..)
+  ![telegrama](https://github.com/CRICOIN-CRI/CRICOIN-CRI/assets/169584678/3b1c8f2f-f889-44a5-b8d4-8ecbc6daa777): https://t.me/Cricoin_CRI
   ![instagram](https://github.com/CRICOIN-CRI/CRICOIN-CRI/assets/169584678/a776311d-eb0d-46a0-8765-6e1416034285): [cricoin_cri]([link/a/tu/instagram](https://www.instagram.com/cricoin_cri/))  
   ![correo-electronico](https://github.com/CRICOIN-CRI/CRICOIN-CRI/assets/169584678/430fbbc3-771a-4a29-aa30-360766fe8a09): cricoin_token@proton.me
