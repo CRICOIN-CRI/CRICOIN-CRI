@@ -37,6 +37,7 @@ SOME MAIN GOALS
 - Promote the regulation and legalization of cannabis.
 - Support responsible self-consumption.
 - Investments in sector companies and projects.
+- Contribution to Ecology and Rural Development.
 - Create an application to improve product traceability through Blockchain.
 Blockchain can ensure security, transparency, and traceability, as it can track products to their primary source, review where and when they were distributed, and recall merchandise if necessary.
 Blockchain traceability connects all actors in the supply chain (producers, distributors, and consumers), enabling the flow of information.
@@ -56,7 +57,7 @@ This way, it is possible to verify the authenticity of all consumed products. Pr
 Prevent fraud: By providing encrypted real-time data, reliable and up-to-date information that cannot be manipulated is achieved. This ensures the information has not been altered.
 Increase consumer trust: Through QR codes, companies can show all the necessary information to the consumer, providing an extra degree of trust in the product and potentially fostering loyalty.
 Add value to the product: All the points mentioned so far collectively add value to the final product. 
-Blockchain technology applied to traceability can be oriented as a marketing strategy. Contribution to Ecology and Rural Development.
+Blockchain technology applied to traceability can be oriented as a marketing strategy.
 
 Additional Services
 
