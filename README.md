@@ -4,14 +4,21 @@ VISION
 
 CRICOIN - Cannabis Research Initiative.
 
-It is the creation of a community around the creation of an ERC-20 token that goes beyond simply funding cannabis research and medicinal uses. At CRICOIN, we want to make it very clear that we do not invite people to consume. 
+It is the creation of a community around the creation of an ERC-20 token that goes beyond simply funding cannabis research and medicinal uses.
+At CRICOIN, we want to make it very clear that we do not invite people to consume. 
 What we advocate for is regulated use, supporting the fight for the regularization and legalization of cannabis.
+
 CRICOIN is a project that does not have a centralized team or core, it will be 100% community-driven.
 We firmly believe in bringing together people who share certain values and points of view to create a strong and prosperous community focused on medicinal cannabis research and its recreational use.
 
-The CRICOIN ecosystem starts with oneself. We have primary objectives such as Medicinal Cannabis Research, green policies, and minimizing our ecological footprint. CRICOIN recognizes the importance of environmental sustainability.
-Therefore, measures will be implemented to promote ecological practices in all its operations and supported projects. This will include support for sustainable cultivation methods, promotion of organic farming, 
-and investment in green technologies to reduce the carbon footprint of the cannabis industry. Additionally, the project will actively explore ways to offset its environmental impact. We are also working on regulatory frameworks to promote innovation, 
+The CRICOIN ecosystem starts with oneself. We have primary objectives such as Medicinal Cannabis Research, green policies, and minimizing our ecological footprint.
+CRICOIN recognizes the importance of environmental sustainability.
+Therefore, measures will be implemented to promote ecological practices in all its operations and supported projects. 
+
+This will include support for sustainable cultivation methods, promotion of organic farming, 
+and investment in green technologies to reduce the carbon footprint of the cannabis industry. 
+
+Additionally, the project will actively explore ways to offset its environmental impact. We are also working on regulatory frameworks to promote innovation, 
 transparency, guarantees, and safety in the cannabis industry. We are actively seeking collaborations with organizations, institutions, and companies that share our vision and values 💞️. 
 These partnerships will strengthen CRICOIN's network and increase its impact on the cannabis ecosystem and medical research.
 
@@ -19,34 +26,37 @@ These partnerships will strengthen CRICOIN's network and increase its impact on 
 
 Main Token Features
 
-Token Name: CRICOIN
-Total Supply: 1,000,000,000,000,000 CRICOIN
-Network: Ethereum
-Token Type: ERC-20
+- Token Name: CRICOIN
+- Total Supply: 1,000,000,000,000,000 CRICOIN
+- Network: Ethereum
+- Token Type: ERC-20
 
 SOME MAIN GOALS
 
-Medicinal cannabis research.
-Promote the regulation and legalization of cannabis.
-Support responsible self-consumption.
-Investments in sector companies and projects.
-Create an application to improve product traceability through Blockchain.
-Blockchain can ensure security, transparency, and traceability, as it can track products to their primary source, review where and when they were distributed, and recall merchandise if necessary. Blockchain traceability connects all actors in the supply chain (producers, distributors, and consumers), enabling the flow of information.
+- Medicinal cannabis research.
+- Promote the regulation and legalization of cannabis.
+- Support responsible self-consumption.
+- Investments in sector companies and projects.
+- Create an application to improve product traceability through Blockchain.
+Blockchain can ensure security, transparency, and traceability, as it can track products to their primary source, review where and when they were distributed, and recall merchandise if necessary.
+Blockchain traceability connects all actors in the supply chain (producers, distributors, and consumers), enabling the flow of information.
 
 Benefits of blockchain in traceability. By using blockchain for traceability from cultivation to your home, it is possible to:
 
-Ensure origin: Blockchain-based traceability applications typically use QR codes applied to each item through which the consumer can access the product's history. This way, it is possible to verify the authenticity of all consumed products. Precise data accessible could include:
-Collection date
-Place of origin
-Weight
-Treatments (organic)
-Storage time
-Refrigeration
-Humidity
+- Ensure origin: Blockchain-based traceability applications typically use QR codes applied to each item through which the consumer can access the product's history. 
+This way, it is possible to verify the authenticity of all consumed products. Precise data accessible could include:
+- Collection date
+- Place of origin
+- Weight
+- Treatments (organic)
+- Storage time
+- Refrigeration
+- Humidity
+  
 Prevent fraud: By providing encrypted real-time data, reliable and up-to-date information that cannot be manipulated is achieved. This ensures the information has not been altered.
 Increase consumer trust: Through QR codes, companies can show all the necessary information to the consumer, providing an extra degree of trust in the product and potentially fostering loyalty.
-Add value to the product: All the points mentioned so far collectively add value to the final product. Blockchain technology applied to traceability can be oriented as a marketing strategy.
-Contribution to Ecology and Rural Development.
+Add value to the product: All the points mentioned so far collectively add value to the final product. 
+Blockchain technology applied to traceability can be oriented as a marketing strategy. Contribution to Ecology and Rural Development.
 
 Additional Services
 
@@ -68,7 +78,8 @@ Launch of educational programs.
 
 ABOUT CRICOIN
 
-In addition to supporting projects related to the study of the medicinal properties of cannabis, CRICOIN has a comprehensive vision that includes promoting an ecological approach in all its operations. With CRICOIN, we are transforming not only the cannabis industry but also the world we live in. Together, we are cultivating 🌱 a future where health, ecology, and community thrive. Join us on this journey towards responsible innovation!
+In addition to supporting projects related to the study of the medicinal properties of cannabis, CRICOIN has a comprehensive vision that includes promoting an ecological approach in all its operations. 
+With CRICOIN, we are transforming not only the cannabis industry but also the world we live in. Together, we are cultivating 🌱 a future where health, ecology, and community thrive. Join us on this journey towards responsible innovation!
 
 Contact Us
 
