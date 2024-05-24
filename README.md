@@ -36,46 +36,25 @@ SOME MAIN GOALS
 - Medicinal cannabis research.
 - Promote the regulation and legalization of cannabis.
 - Support responsible self-consumption.
-- Investments in sector companies and projects.
 - Contribution to Ecology and Rural Development.
-- Create an application to improve product traceability through Blockchain.
-Blockchain can ensure security, transparency, and traceability, as it can track products to their primary source, review where and when they were distributed, and recall merchandise if necessary.
-Blockchain traceability connects all actors in the supply chain (producers, distributors, and consumers), enabling the flow of information.
 
-Benefits of blockchain in traceability. By using blockchain for traceability from cultivation to your home, it is possible to:
-
-- Ensure origin: Blockchain-based traceability applications typically use QR codes applied to each item through which the consumer can access the product's history. 
-This way, it is possible to verify the authenticity of all consumed products. Precise data accessible could include:
-- Collection date
-- Place of origin
-- Weight
-- Treatments (organic)
-- Storage time
-- Refrigeration
-- Humidity
-  
-Prevent fraud: By providing encrypted real-time data, reliable and up-to-date information that cannot be manipulated is achieved. This ensures the information has not been altered.
-Increase consumer trust: Through QR codes, companies can show all the necessary information to the consumer, providing an extra degree of trust in the product and potentially fostering loyalty.
-Add value to the product: All the points mentioned so far collectively add value to the final product. 
-Blockchain technology applied to traceability can be oriented as a marketing strategy.
-
-Additional Services
-
-- Transparency and Legitimacy.
-- Legal Guarantees.
-- Web3 Ecosystem: We will create a Web3 platform to offer additional services.
-- Staking and Swap: CRICOIN holders will be able to participate in staking the currency to obtain additional rewards. Additionally, the option to exchange CRICOIN for other compatible cryptocurrencies or tokens will be offered.
-- NFT Section: Collaboration with NFT content creators and creation of an NFT market focused on cannabis.
-- Blog: We will publish articles and news related to Cannabis, medical research, Ecology, and other topics of interest to the community.
-- Online store selling cannabis-derived products.
-- We will implement a game on Web3 and Telegram where users can learn and have fun taking care of and growing their own cannabis plants. The game, called My Indoor, will offer NFT and CRICOIN rewards.
 
 MILESTONES
 
-Launch of the MediCanna research platform: We will establish a platform dedicated to cannabis research, providing funding and resources for innovative projects in the field.
-Participation in awareness campaigns.
-Collaboration with legislators.
-Launch of educational programs.
+- Launch of the MediCanna research platform: We will establish a platform dedicated to cannabis research, providing funding and resources for innovative projects in the field.
+- Create an application to improve product traceability through Blockchain. Blockchain can ensure security, transparency, and traceability, as it can track products to their primary source,
+review where and when they were distributed, and recall merchandise if necessary. Blockchain traceability connects all actors in the supply chain (producers, distributors, and consumers), enabling the flow of information.
+Benefits of blockchain in traceability. By using blockchain for traceability from cultivation to your home, it is possible to:
+  - Ensure origin: Blockchain-based traceability applications typically use QR codes applied to each item through which the consumer can access the product's history. 
+This way, it is possible to verify the authenticity of all consumed products. Precise data accessible could include:
+  - Collection date
+  - Place of origin
+  - Weight
+  - Treatments (organic)
+  - Storage time
+  - Humidity
+Prevent fraud: By providing encrypted real-time data, reliable and up-to-date information that cannot be manipulated is achieved. This ensures the information has not been altered. Increase consumer trust: Through QR codes, companies can show all the necessary information to the consumer, providing an extra degree of trust in the product and potentially fostering loyalty. Add value to the product: All the points mentioned so far collectively add value to the final product. Blockchain technology applied to traceability can be oriented as a marketing strategy.
+- Launch of educational programs.
 
 ABOUT CRICOIN
 
