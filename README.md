@@ -25,6 +25,8 @@ SOME MAIN GOALS
 
 ✅Contribution to ecology and rural development.
 
+✅Creation of the Origen360 app for the traceability of cannabis-derived products
+
 ABOUT CRICOIN
 In addition to supporting projects related to studying the medicinal properties of cannabis, CRICOIN has a comprehensive vision that includes promoting an ecological approach in all its operations.
 
