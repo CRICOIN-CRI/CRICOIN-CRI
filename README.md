@@ -3,7 +3,7 @@ CRICOIN (CRI) - Cannabis Research Initiative Token 👋👋👋
 VISION
 
 CRICOIN - Cannabis Research Initiative.
-It is the creation of a community around a token on the Solana network that goes beyond simply funding research on cannabis and its medicinal uses. 
+It is the creation of a community around a token on the Etherium network that goes beyond simply funding research on cannabis and its medicinal uses. 
 At CRICOIN, we want to make it very clear that we do not invite people to consume. What we advocate for is regulated use, supporting the fight for the regularization and legalization of cannabis.
 
 CRICOIN is a project that does not have a centralized team or core; it will be 100% community-driven. 
